@@ -1,0 +1,14 @@
+td{
+    border: none;
+    text-align: center;
+}
+
+th{
+    background-color: aqua;
+}
+
+.footer{
+    td{
+        border: 1px;
+}
+}
