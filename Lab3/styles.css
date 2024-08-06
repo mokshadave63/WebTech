@@ -1,0 +1,16 @@
+.color{
+    text-align: center;
+    background-color: paleturquoise;
+}
+
+.form-container{
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.buttons{
+    text-align: center;
+    border-radius: 20px;
+}
