@@ -30,5 +30,5 @@ function submitForm() {
 
     document.getElementById('orderSummary').innerHTML = orderSummary;
 
-    return false;  // Prevent actual form submission
+    return false;  
 }
